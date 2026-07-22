@@ -19,17 +19,6 @@
 
 ---
 
-## Project Structure
-
-```text
-ClimaBot/
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── .env.example
-└── src/
-    └── main.py
-
 # Made By:
 
 | <img loading="lazy" src="https://avatars.githubusercontent.com/u/160347173?v=4" width="115"><br><sub><a href="https://github.com/RavineEnvy">Guilherme Freire</a></sub> |
